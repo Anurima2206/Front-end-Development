@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React,{useState} from "react";
 import Posts from "./components/Posts";
 import {ThemeContext,themes} from "./context/themeContext";

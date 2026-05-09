@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react'
 import { ThemeContext } from '../context/themeContext';
 import { useContext } from 'react';
