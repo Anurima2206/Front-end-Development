@@ -28,7 +28,7 @@ function App() {
   };
   
   useEffect(()=>{
-    getUsers();
+    //getUsers();........comment on when running
   },[]);
 
   return (
